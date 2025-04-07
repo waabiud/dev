@@ -1,4 +1,4 @@
-# DevOps Badge Test
+# DevOps
 
 This project is a minimal setup to **trigger a GitHub Actions workflow** and earn the **DevOps Guru** badge on GitHub.
 
